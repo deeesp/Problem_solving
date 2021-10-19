@@ -14,3 +14,4 @@
 |211017|백준|[16236 - 아기 상어](https://www.acmicpc.net/problem/16236)|[211017_16236_baby_shark.py]()|18 하반기|
 |211018|백준|[16235 - 나무 재태크](https://www.acmicpc.net/problem/16235)|[211018_16235_tree_investment.py]()|18 하반기, Time-out 복습 필요|
 |211018|백준|[17144 - 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|[211018_17144_microdust.py]()|19 상반기|
+|211019|백준|[17143 - 낚시왕](https://www.acmicpc.net/problem/17143)|[211019_17143_fishking.py]()|19 상반기, 채점중 마지막 히든 케이스 틀림... 원인 못찾음|
