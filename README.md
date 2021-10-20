@@ -15,3 +15,5 @@
 |211018|백준|[16235 - 나무 재태크](https://www.acmicpc.net/problem/16235)|[211018_16235_tree_investment.py]()|18 하반기, Time-out 복습 필요|
 |211018|백준|[17144 - 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|[211018_17144_microdust.py]()|19 상반기|
 |211019|백준|[17143 - 낚시왕](https://www.acmicpc.net/problem/17143)|[211019_17143_fishking.py]()|19 상반기, 채점중 마지막 히든 케이스 틀림... 원인 못찾음|
+|211020|백준|[17779 - 게리맨더링 2](https://www.acmicpc.net/problem/17779)|[211020_17471_gerrymandering.py]()|19 하반기|
+|211020|백준|[17837 - 새로운 게임 2](https://www.acmicpc.net/problem/17837)|[211020_17837_new_game2.py]()|19 하반기, 테케 5번 걸렸다가 해결|
