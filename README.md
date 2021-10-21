@@ -17,3 +17,5 @@
 |211019|백준|[17143 - 낚시왕](https://www.acmicpc.net/problem/17143)|[211019_17143_fishking.py]()|19 상반기, 채점중 마지막 히든 케이스 틀림... 원인 못찾음|
 |211020|백준|[17779 - 게리맨더링 2](https://www.acmicpc.net/problem/17779)|[211020_17471_gerrymandering.py]()|19 하반기|
 |211020|백준|[17837 - 새로운 게임 2](https://www.acmicpc.net/problem/17837)|[211020_17837_new_game2.py]()|19 하반기, 테케 5번 걸렸다가 해결|
+|211021|백준|[17822 - 원판돌리기](https://www.acmicpc.net/problem/17822)|[211021_17822_roulette.py]()|19 하반기|
+|211021|백준|[17825 - 주사위 윷놀이](https://www.acmicpc.net/problem/17825)|[211021_17825_dice_yunnori.py]()|19 하반기, 구현 망 복습 필요|
