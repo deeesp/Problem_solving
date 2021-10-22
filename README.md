@@ -12,10 +12,10 @@
 |211017|백준|[5373 - 큐빙](https://www.acmicpc.net/problem/5373)|[211017_5373_cube.py]()|18 하반기, 구현 복습 필요|
 |211017|백준|[16234 - 인구 이동](https://www.acmicpc.net/problem/16234)|[211017_16234_population_transfer.py]()|18 하반기|
 |211017|백준|[16236 - 아기 상어](https://www.acmicpc.net/problem/16236)|[211017_16236_baby_shark.py]()|18 하반기|
-|211018|백준|[16235 - 나무 재태크](https://www.acmicpc.net/problem/16235)|[211018_16235_tree_investment.py]()|18 하반기, Time-out 복습 필요|
+|211018|백준|[16235 - 나무 재테크](https://www.acmicpc.net/problem/16235)|[211018_16235_tree_investment.py]()|18 하반기, Time-out 복습 필요|
 |211018|백준|[17144 - 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)|[211018_17144_microdust.py]()|19 상반기|
 |211019|백준|[17143 - 낚시왕](https://www.acmicpc.net/problem/17143)|[211019_17143_fishking.py]()|19 상반기, 채점중 마지막 히든 케이스 틀림... 원인 못찾음|
 |211020|백준|[17779 - 게리맨더링 2](https://www.acmicpc.net/problem/17779)|[211020_17471_gerrymandering.py]()|19 하반기|
 |211020|백준|[17837 - 새로운 게임 2](https://www.acmicpc.net/problem/17837)|[211020_17837_new_game2.py]()|19 하반기, 테케 5번 걸렸다가 해결|
 |211021|백준|[17822 - 원판돌리기](https://www.acmicpc.net/problem/17822)|[211021_17822_roulette.py]()|19 하반기|
-|211021|백준|[17825 - 주사위 윷놀이](https://www.acmicpc.net/problem/17825)|[211021_17825_dice_yunnori.py]()|19 하반기, 구현 망 복습 필요|
+|211021|백준|[17825 - 주사위 윷놀이](https://www.acmicpc.net/problem/17825)|[211021_17825_dice_yunnori.py]()|19 하반기, 구현 망 복습 필요, 그래프 그리기, 중복순열 터짐|
