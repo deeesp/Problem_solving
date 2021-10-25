@@ -1,11 +1,11 @@
 import sys
 from itertools import combinations, permutations
 
-#sys.stdin = open("input.txt", "r")
+sys.stdin = open("input.txt", "r")
 input = lambda: sys.stdin.readline()
 
-#T = int(input())
-#for test_case in range(1, T + 1):
+T = int(input())
+for test_case in range(1, T + 1):
   N = int(input())
   S = [list(map(int, input().split())) for _ in range(N)]
   comb = list(combinations(range(N), N // 2))
